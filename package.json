@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "app": "^0.1.0",
+    "create-react": "^0.0.0",
+    "create-react-app": "^5.0.1"
+  },
+  "name": "reactclass2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
